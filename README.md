@@ -1,0 +1,2 @@
+# premium-hydrometer-log-001-hydrometer-gravity-log-abv-c
+Tired of scribbling gravity readings on sticky notes and calculating ABV in your head? The Hydrometer Gravity Log &amp; ABV Calc Craft Lab eliminates guesswork and transforms raw fermentation data into professional brewing insights.  This Notion template gives you a centralized command center for tracking every batch's gravity arc, calculating accurate
